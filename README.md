@@ -2,7 +2,7 @@
 
 #### Xray内核，支持vless，vmess，trojan，shadowsocks四个配置同时在线！支持自定义伪装网站
 
-#### [Doprax后续自定义域名CDN自选IP等相关文字视频教程请点击](https://ygkkk1.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html)
+#### [Doprax后续自定义域名CDN自选IP等相关文字视频教程请点击](https://ygkkk.blogspot.com/2023/01/doprax1-xray-v2ray-cdn.html1)
 
 ------------------------
 
